@@ -1,1 +1,1 @@
-# CSE-Module-6
+# CSE-Module-6: Module 6
